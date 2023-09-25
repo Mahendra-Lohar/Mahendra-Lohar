@@ -31,7 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahendra-lohar&show_icons=true&locale=en&layout=compact" alt="mahendra-lohar" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendra-lohar" alt="mahendra-lohar" /></a> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahendra-lohar&show_icons=true&locale=en" alt="mahendra-lohar" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/Mahendra-Lohar=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahendra-lohar&" alt="mahendra-lohar" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahendra-lohar" alt="mahendra-lohar" /></a> </p>
 
