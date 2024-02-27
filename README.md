@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DSA, Full Stack Development**
 
-- 💬 Ask me about **C,C++, Python**
+- 💬 Ask me about **C,C++, Python, Java**
 
 - 📫 How to reach me **mnlohar18@gmail.com**
 
